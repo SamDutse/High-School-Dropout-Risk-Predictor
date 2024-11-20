@@ -1,6 +1,3 @@
-pandas
-numpy
-scikit-learn
-Streamlit 
-Pycaret
-pickle
+Streamlit
+joblib
+Scikit-learn
